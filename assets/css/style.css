@@ -15,6 +15,7 @@ header{
 }
 
 .box{
+	margin-top:50px;
 	height: 420px;
 	width: 205px;
 	padding: 40px;
