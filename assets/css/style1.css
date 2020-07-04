@@ -105,6 +105,7 @@ header{
 	background-clip: content-box,border-box;
 	margin-top: 50px;
 	margin-left: -50px;
+	margin-bottom: 50px;
 }
 
 #result {
